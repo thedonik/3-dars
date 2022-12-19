@@ -20,7 +20,7 @@ var fullList =
 "Shahar: " + city + "\n" +
 "Yosh: " + age + "\n" +
 "Qushiq: " + song + "\n" +
-"Buyingiz: " + high + "\n" +
+"Buyingiz: " + high + "\n";
 
 
 
